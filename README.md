@@ -15,4 +15,4 @@ click OK,OK,OK <br>
 Put footage colletion into 'Footage' folder. <br>
 double click 'run.bat' <br>
 
-For In-depth explanations read USER_MANUAL.md
+For In-depth explanations read User Manual -- Traffic Violation Detection System.pdf
