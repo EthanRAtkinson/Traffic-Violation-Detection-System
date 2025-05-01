@@ -12,6 +12,5 @@ click New <br>
 type C:\ffmpeg\bin <br>
 click OK,OK,OK <br>
 
-Download/unzip Project - https://github.com/EthanRAtkinson/Traffic-Violation-Detection-System/archive/refs/heads/main.zip <br>
-Put Videos into Footage folder. <br>
-double click "run" <br>
+Put footage colletion into 'Footage' folder. <br>
+double click 'run.bat' <br>
